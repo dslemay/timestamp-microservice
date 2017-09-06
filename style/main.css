@@ -3,7 +3,7 @@ body {
 }
 
 .content-wrapper {
-  width: 60%;
+  width: 80%;
   margin: 0 auto;
   margin-top: 20px;
   padding: 20px;
@@ -56,9 +56,6 @@ code {
 }
 
 @media screen and (max-width: 500px) {
-  .content-wrapper {
-    width: 80%;
-  }
 
   code {
     font-size: 14px;
